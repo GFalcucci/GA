@@ -1,2 +1,0 @@
-# GA
-Geometria Analítica
